@@ -3,7 +3,7 @@
     "aws_access_key": "",
     "aws_secret_key": "",
     "region": "eu-west-1",
-    "source_ami": "ami-9abea4fb",
+    "source_ami": "ami-8ac04ff9",
     "ssh_username": "ubuntu",
     "name": "linux-docker-base"
   },

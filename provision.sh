@@ -9,4 +9,4 @@ sudo docker run -d \
   --privileged \
   -v /var/run/docker.sock:/var/run/docker.sock \
   -p 9000:9000 \
-  dockerui/dockerui
+  abh1nav/dockerui
